@@ -1,0 +1,15 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Dynamic RNN with gradients
+message: Please cite this repository as follows
+type: software
+authors:
+  - given-names: Arjun
+    family-names: Rao
+    email: arjun210493@gmail.com
+    affiliation: TU Graz
+    orcid: 'https://orcid.org/0000-0002-4810-0241'
+  - given-names: Guillaume
+    family-names: Bellec
